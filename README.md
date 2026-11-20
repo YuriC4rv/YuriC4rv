@@ -151,6 +151,4 @@ Também desenvolvo iniciativas educacionais e conteúdos técnicos, com ênfase 
 
 *Grandes softwares começam com curiosidade e evoluem por meio do conhecimento.*
 
-**C4rv © 2026**
-
 </div>
